@@ -2,4 +2,5 @@
 
 void foo()
 {
+    printf("I Edited - Merge");
 }
