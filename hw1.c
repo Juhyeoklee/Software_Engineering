@@ -2,4 +2,5 @@
 
 void foo()
 {
+    printf("Virtual User Edited - Merge");
 }
